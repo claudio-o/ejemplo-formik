@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/*
+label {
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#text-input {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  width: 90%;
+  margin-top: 0.5rem;
+  padding: 0.75rem 0.75rem;
+}
+*/
+#lista {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  width: 100%;
+  margin-top: 1.5rem;
+  padding: 0.75rem 0.75rem;
+}
